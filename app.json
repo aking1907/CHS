@@ -1,0 +1,45 @@
+{
+  "id": "fb8d24a2-d03a-498b-8e77-b5c1733901bd",
+  "name": "Chapters Health Base App",
+  "publisher": "Chapters Health System Inc.",
+  "version": "25.0.0.29",
+  "brief": "Chapters Health Base App",
+  "description": "Chapters Health Base App",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "e7e4551c-46e4-40a0-98aa-d33dc1d10bde",
+      "name": "Multi-Entity Management (NA)",
+      "publisher": "Binary Stream Software Inc.",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "6ce74a8d-a14d-4ee3-a178-14c7d7f5b65b",
+      "name": "KTL BC Extensions",
+      "publisher": "KTL Solutions, Inc.",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50500,
+      "to": 50549
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
